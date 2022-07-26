@@ -25,7 +25,7 @@ Files | Description
 
 _Note: Each Ruby script in the project matches regular expressions based on an argument passed to it via the command line._
 
-* **0. Simply matching Holberton**
+* **0. Simply matching School**
   * [0-simply_match_school.rb](./0-simply_match_school.rb): Ruby script that matches the regular expression `School`.
 
 * **1. Repetition Token #0**
