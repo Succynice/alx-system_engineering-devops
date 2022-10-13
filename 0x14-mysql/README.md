@@ -5,6 +5,16 @@ primary-replica model. I configured the two servers provided to me by
 ALX in a MySQL primary-replica setup with a dummy database, and wrote
 a Bash script to automate generation of database backups.
 
+*******
+
+## Table of contents
+Files | Description
+----- | -----------
+[4-mysql_configuration_primary](./4-mysql_configuration_primary) | MySQL primary configuration
+[4-mysql_configuration_replica](./4-mysql_configuration_replica) | MySQL replica configuration
+[5-mysql_backup](./5-mysql_backup) | Bash script that generates a MySQL dump and creates a compressed archive out of it
+
+
 ## Tasks :page_with_curl:
 
 * [4-mysql_configuration_primary](./4-mysql_configuration_primary): The MySQL
